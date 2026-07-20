@@ -141,3 +141,10 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Wrangler local state and generated types
+.wrangler/
+worker-configuration.d.ts
+
+# OS
+.DS_Store

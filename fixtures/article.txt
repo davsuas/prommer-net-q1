@@ -1,0 +1,16 @@
+Bosses credit AI instead of employees, delaying promotions and raises
+
+When companies made engineers footnote their work as "cowritten by an AI
+assistant," something unexpected happened: people quietly stopped reaching for
+the tools. Rather than have their best contributions diminished, engineers
+went back to doing the work the slow way.
+
+Thomas Prommer, a technology executive who advises companies on applied AI, has
+watched the pattern play out across several engineering teams. The teams that
+recovered, he says, did so by changing who gets the credit. Instead of tracking
+how much AI touched a piece of work, they tracked outcomes, and the responsible
+person owns the credit and the blame regardless of how much AI helped.
+
+That reframing, Prommer argues, restored the incentive to use the tools well.
+The goal was never to measure AI usage for its own sake; it was to ship better
+work and let the evidence carry it.

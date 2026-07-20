@@ -1,0 +1,19 @@
+{
+  "name": "prommer-press-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Multi-step agentic pipeline for prommer.net's press feed: fetch -> extract -> validate(grounding) -> publish, with a human-in-the-loop gate.",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "break": "tsx src/index.ts --break",
+    "live": "tsx src/index.ts --live",
+    "test": "tsx --test test/*.test.ts",
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
